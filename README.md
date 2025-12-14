@@ -34,11 +34,11 @@ Python • CSV • File Handling • Object-Oriented Programming
 
 ## How to Run
 
-1. Make sure Python 3 is installed on your computer.
+1.Make sure Python 3 is installed on your computer.
 
-2. Open **Command Prompt** (Win + R → type `cmd` → Enter).
+2.Open **Command Prompt** (Win + R → type `cmd` → Enter).
 
-3. Choose a directory and create a folder:
+3.Choose a directory and create a folder:
 ```bash
 mkdir shop-inventory-system
 cd shop-inventory-system
@@ -49,6 +49,4 @@ git clone https://github.com/Pythonista-dev-cyber/Shop-Inventory-Management-Syst
 ```
 and type code . to open vs code.
 
-5.make sure both sg_exports_analysis.py and sgexports_dataset 2.csv are in the same folder.
-
-6.run it.
+5.run it.
